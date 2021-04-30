@@ -28,7 +28,8 @@ implementation group: 'org.axonframework', name: 'axon-spring-boot-starter', ver
      implementation group: 'com.h2database', name: 'h2', version: '1.4.200'
     // implementation group: 'org.axonframework', name: 'axon-spring-boot-starter-jgroups', version: '3.4.3'
      // https://mvnrepository.com/artifact/org.axonframework.extensions.jgroups/axon-jgroups
-implementation group: 'org.axonframework.extensions.jgroups', name: 'axon-jgroups', version: '4.5'
+//implementation group: 'org.axonframework.extensions.jgroups', name: 'axon-jgroups', version: '4.5'
+  	implementation group: 'org.axonframework', name: 'axon-jgroups', version: '4.5'
      
 }
 
